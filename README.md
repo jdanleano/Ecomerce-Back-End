@@ -1,4 +1,4 @@
-# Ecomerce-Back-End - Module 13 Challenge
+# Ecommerce-Back-End - Module 13 Challenge
 
 Backend of your next business
 
@@ -40,4 +40,4 @@ This application utilizes Express, MYSQL2, Sequelize, and dotenv. To run the app
 
 ### https://github.com/jdanleano/Ecomerce-Back-End
 
-###
+### https://youtu.be/uZUGo50QGJg
