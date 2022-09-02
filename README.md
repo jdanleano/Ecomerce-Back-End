@@ -38,6 +38,6 @@ This application utilizes Express, MYSQL2, Sequelize, and dotenv. To run the app
 
 ## Please see attached links to Repository and Video Walkthrough:
 
-### https://github.com/jdanleano/Ecomerce-Back-End
+### https://github.com/jdanleano/Ecommerce-Back-End
 
 ### https://youtu.be/uZUGo50QGJg
